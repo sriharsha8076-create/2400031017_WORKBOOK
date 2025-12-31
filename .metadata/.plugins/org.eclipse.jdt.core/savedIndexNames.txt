@@ -1,0 +1,25 @@
+INDEX VERSION 1.134+C:\Users\gsred\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
+3464171542.index
+3413523994.index
+3005853388.index
+2961820773.index
+1179406568.index
+335547331.index
+1455354528.index
+2418014349.index
+2422849177.index
+2489101354.index
+4230353239.index
+2744839611.index
+2320135770.index
+980138866.index
+1399436697.index
+1865797976.index
+4034842702.index
+2173494495.index
+1594959702.index
+2808909090.index
+876658504.index
+2492596519.index
+2357850215.index
+4049415616.index
